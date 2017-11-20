@@ -1,0 +1,7 @@
+.sass-cache/
+public/assets/
+spec/examples.txt
+tmp/
+coverage/
+log/
+credentials.yml
